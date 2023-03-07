@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python backend developer</h3>
 
-<h1 align="center">Languages and tools:</h1>
+<h3 align="center">Languages and tools:</h3>
+
 [<img align="left" width="24px" src="https://simpleicons.org/icons/python.svg"/>][Python]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/flask.svg"/>][Flask]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/postgresql.svg"/>][PostgreSQL]
@@ -10,7 +11,8 @@
 [<img align="left" width="24px" src="https://simpleicons.org/icons/aiohttp.svg"/>][AIOHTTP]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/linux.svg"/>][Linux]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/git.svg"/>][Git]
-<!--[<img align="left" width="24px" src=""/>][Docker]--!>
+
+<!-- [<img align="left" width="24px" src=""/>][Docker] -->
 
 <!--
 **oriared/oriared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
