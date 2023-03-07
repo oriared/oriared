@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python backend developer</h3>
 
-<h3 align="center">Languages and tools:</h3>
+##Languages and tools:
 
-[<img align="left" width="24px" src="https://simpleicons.org/icons/python.svg"/>][Python]
+<img align="left" width="24px" src="https://simpleicons.org/icons/python.svg"/>
 [<img align="left" width="24px" src="https://simpleicons.org/icons/flask.svg"/>][Flask]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/postgresql.svg"/>][PostgreSQL]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/docker.svg"/>][Docker]
