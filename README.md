@@ -2,15 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python backend developer</h3>
 
-##Languages and tools:
+### Languages and tools:
 
 <img align="left" width="24px" src="https://simpleicons.org/icons/python.svg"/>
-[<img align="left" width="24px" src="https://simpleicons.org/icons/flask.svg"/>][Flask]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/postgresql.svg"/>][PostgreSQL]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/docker.svg"/>][Docker]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/aiohttp.svg"/>][AIOHTTP]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/linux.svg"/>][Linux]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/git.svg"/>][Git]
+<img align="left" width="24px" src="https://simpleicons.org/icons/flask.svg"/>
+<img align="left" width="24px" src="https://simpleicons.org/icons/postgresql.svg"/>
+<img align="left" width="24px" src="https://simpleicons.org/icons/docker.svg"/>
+<img align="left" width="24px" src="https://simpleicons.org/icons/aiohttp.svg"/>
+<img align="left" width="24px" src="https://simpleicons.org/icons/linux.svg"/>
+<img align="left" width="24px" src="https://simpleicons.org/icons/git.svg"/>
 
 <!-- [<img align="left" width="24px" src=""/>][Docker] -->
 
