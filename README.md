@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Yaroslav
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Pyrhon backend developer</h3>
+<h3 align="center">Python backend developer</h3>
 
+<img src="https://simpleicons.org/icons/flask.svg"/>
 <!--
 **oriared/oriared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
