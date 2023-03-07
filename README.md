@@ -4,7 +4,7 @@
 
 ### Languages and tools:
 
-<img align="left" width="24px" src="https://simpleicons.org/icons/python.svg"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img align="left" width="24px" src="https://simpleicons.org/icons/flask.svg"/>
 <img align="left" width="24px" src="https://simpleicons.org/icons/postgresql.svg"/>
 <img align="left" width="24px" src="https://simpleicons.org/icons/docker.svg"/>
