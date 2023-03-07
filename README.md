@@ -5,12 +5,14 @@
 ### Languages and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img align="left" width="24px" src="https://simpleicons.org/icons/flask.svg"/>
-<img align="left" width="24px" src="https://simpleicons.org/icons/postgresql.svg"/>
-<img align="left" width="24px" src="https://simpleicons.org/icons/docker.svg"/>
-<img align="left" width="24px" src="https://simpleicons.org/icons/aiohttp.svg"/>
-<img align="left" width="24px" src="https://simpleicons.org/icons/linux.svg"/>
-<img align="left" width="24px" src="https://simpleicons.org/icons/git.svg"/>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![AIOHTTP](https://raw.githubusercontent.com/aio-libs/aiohttp/3058c72dc417cf7fabcc5a1d71e5238f93469012/docs/aiohttp-icon.svg)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 <!-- [<img align="left" width="24px" src=""/>][Docker] -->
 
